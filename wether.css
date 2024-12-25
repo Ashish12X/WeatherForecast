@@ -147,6 +147,11 @@ body{
     background-color: #78c1f3;
 }
 
+.day-icon{
+    height:8;
+    width: 8vh;
+}
+
 footer{
     background-color: rgb(88, 90, 90);
     color: #f8f8f8;    
